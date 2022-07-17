@@ -39,3 +39,29 @@ campaign: number of contacts performed during this campaign and for this client 
 Output (desired target):
 
 y - has the client subscribed to a term deposit? (binary)
+
+# Table of Contents
+
+1 Introduction.
+
+2 Exploration.
+
+3 Preprocessing Data for a Model.
+
+4  LGBMClassifier.
+
+5  Confusion_matrix.
+
+6  RandomForestClassifier.
+
+7 Model Evaluation.
+
+8 Features Importances.
+
+9 Unsupervised Clustering Kmeans. 
+
+10 PCA Dimension Reduction.
+
+11 SHAP Analysis for Exploring Important Features to Explore What Makes Customers to Subscribe.
+
+12 Conclusion.
